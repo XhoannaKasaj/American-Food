@@ -1,0 +1,1130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* SECTION 1 */
+
+a.nav-link.nav-text-color{
+    color: #3f0000;
+    font-weight: bold;
+}
+.page1{
+    background-color: rgb(250, 188, 71);
+}
+
+.bg-image {
+   position: relative;
+}
+
+.img1{
+    position: absolute;
+    right: -30px;
+    top: -200px;
+}
+
+section.page1{
+    min-height: 700px;
+}
+
+.logo{
+    margin-left: 24%;
+}
+
+div#navbarNavDropdown{
+    margin-left: 50%;
+    flex-direction: column; 
+    color: #3f0000;
+    font-weight: bold;
+}
+
+.contact-us{
+    margin-top: 15%;
+    display: flex;
+}
+
+#drejtkendeshi {  
+    width: 64%;
+    height: 40px;
+    border: 2.5px dashed black;
+    margin-left: 4%;
+    padding: 4px;
+    margin-top: 8%;
+}
+.main{
+    font-size: 99px;
+    margin-left: 4%;
+}
+
+.main2{
+    margin-left: 4%;
+    font-size: 45px;
+}
+
+h1,h2{
+    font-family: 'Alfa Slab One', cursive;
+    line-height: 1px;
+    color: #3f0000;
+    text-shadow: 2px 2px 0 #fff;
+}
+
+.ic-container {
+    background: #a70000;
+    border-radius: 5px dashed white;
+    width: 145px;
+    height: 145px;
+    border-radius: 50%;
+    margin-top: -47rem;
+    margin-left: 43rem;
+    padding: 7.5px;
+}
+
+
+.cyrcle {
+    position: absolute;
+    border-radius: 86px;
+    border: 3px dashed #fff;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+
+.price {
+    font-size: 40px;
+    line-height: 1.2;
+    color: #fff;
+    margin-left: 25px;
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+.only{
+    font-size: 26px;
+    color: #fff;
+    font-weight: bold;
+    margin-left: 23px;
+    margin-top: -9px;
+    line-height: 33px;
+}
+
+
+/* SECTION 2 */
+span.decimal {
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.top-image {
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+.text1 {
+    color: red;
+    z-index: 9999;
+}
+
+.text2,.text3{
+    position: absolute;
+    margin-left: 2%;
+    margin-top: 2%;
+    line-height: 0;
+    z-index: 1000;
+}
+
+.paragraph1, .paragraph2, .paragraph3{
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 1;
+}
+
+.popular-burger{
+  position: relative;
+}
+.burger-fun{
+    position: relative;
+}
+
+.try-it{
+    position: relative;
+}
+
+.popular-burger,.try-it,.burger-fun{
+    background-repeat: no-repeat !important;
+   
+}
+
+/* 1st button */
+.btn1{ 
+    display: block;
+    margin: 0 auto;  
+    padding: 9px;
+    color:#3f0000;
+    background-color: rgb(250, 188, 71);
+    border: 1px solid #f37b4ce1;
+    margin-top: 49px;
+    font-weight: bold;
+}
+
+.btn1:hover{
+    letter-spacing: 1px;
+}
+
+
+/* SECTION 3 */
+
+.page3{
+    text-align: center;
+    padding: 23px; 
+}
+
+.paragraph{
+    margin: 0 100px;
+}
+
+
+
+/* SECTION 4 */
+
+.burger-trio img{
+    /* box-shadow: 0px 2px 0px 0px rgba(161, 152, 152, 0.658); */
+}
+
+.burger-trio h5{
+    padding: 8%;
+    font-family: 'Alfa Slab One', cursive;
+    color: #3f0000;
+    margin-left: 10%;
+}
+
+.burger-trio p{
+    text-align: center;
+    margin-left: -7%;
+    padding: 21px;
+    margin: -30px 30px;
+}
+
+.burger-trio button{
+    border: 1px solid red;
+    font-weight: bold;
+    width: 39%;
+    margin-left: 30%;
+    margin-top: 8%;
+}
+
+
+/* SECTION 5 */
+.page5{
+   width: 74%;
+   margin-top: 83px;
+   box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.74);
+   margin-left: 8%;
+}
+
+.slide{
+    margin-top: 4%;
+}
+
+.slide h5{
+    color: #3f0000;
+    font-family: 'Alfa Slab One';
+    font-size: 28px;
+}
+
+.slide h6{
+    color: #3f0000;
+    font-size: 22px;
+}
+
+.slick-dots{
+    margin-left: 56px;
+}
+
+
+ul.slick-dots {
+    margin-left: -40%;
+}
+
+
+/* SECTION 6 */
+
+.contact h6{
+    color: #3f0000;
+    font-size: 22px;
+    margin-top: 5%;
+}
+
+
+section.contact{
+    background-image: url('burger_form.png');
+    background-repeat: no-repeat;
+}
+
+img.bottle {
+    position: absolute;
+    width: auto;
+    margin-left: 10%;
+    margin-top: 12%;
+}
+
+input.form-control {
+    margin: 26px;
+    height: 55px;
+}
+
+.col-md-5.offset-md-3{
+    width: 27%;
+    margin-top: 4%;
+    margin-left: 25%;
+}
+
+.col-md-5.offset-md-2{
+    width: 27%;
+    margin-left: 52%;
+    margin-top: -19%;
+}
+
+
+button.btn.btn-danger.w-100 {
+    font-weight: 900;
+    height: 52px;
+    margin-left: 22px;
+    font-size: 21px;
+}
+
+.img_form3{
+    margin-top: -10rem;
+    margin-left: 21rem;
+}
+
+
+ /* SECTION 7 */
+
+.page7{
+    background-image: url(img_footer.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    min-height: 500px;
+}
+.footer_logo{
+    margin-left: 4%;
+    margin-top: 5%;
+}
+
+.footer_paragraph{
+    margin-top: 7%;
+    color: #fff;
+    margin-left: 5%;
+}
+
+.author {
+    margin-left: 5%;
+    margin-top: 26%;
+    color: #fff;  
+}
+
+
+.location{
+    color: #fff;
+    font-size: 17px;
+    display: flex;
+    font-weight: 600;
+    margin-left: 29%;
+    margin-top: 36%;
+}
+
+.mail{
+    color: #fff;
+    font-size: 17px;
+    display: flex;
+    font-weight: 600;
+    margin-left: 29%;
+}
+
+.icon-location,.icon-mail{
+    font-size: 30px;
+    padding: 4px;
+}
+
+
+.social-links a{
+	display: inline-block;
+	height: 42px;
+	width: 40px;
+    padding-top: 4px;
+	background-color: #fff;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color:#000;
+	transition: all 0.5s ease;
+} 
+
+.social-links{
+    margin-left: 61%;
+    font-size: 219%;
+    margin-top: 20%;
+}
+.icon-facebook:hover {
+    color:#1877f2;
+}
+
+.icon-twitter:hover {
+  color:#1da1f2;
+}
+
+.icon-instagram:hover {
+  color:#c32aa3;
+}
+
+.icon-whatsapp:hover{
+    color: green;
+}
+
+
+.icon-facebook,
+.icon-instagram,
+.icon-twitter{
+transition: color 0.2s;
+}
+
+
+
+
+
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 1399px){
+    /* SECTION 1 */
+    #drejtkendeshi{
+        height: 30px;
+    }
+
+      /*SECTION 2 */
+      .image-box {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1280px){
+    /* SECTION 1 */
+    .img1 {
+        top: -20px;
+        left: 480px;
+        max-height: 696px;
+        max-width: 109%;
+    }
+
+    #drejtkendeshi{
+        height: 60px;
+    }
+    .main{
+        margin-top: 30px;
+        font-size: 49px;
+    }
+
+     /*SECTION 2 */
+     .image-box {
+        width: 100%;
+    }
+
+     /* SECTION 6 */
+     .col-md-5.offset-md-2 {
+        margin-top: -21%;
+    }
+
+    .img_form3{
+        display: none;
+    }
+
+     /* SECTION 7 */
+     .section.page7.mb-5 {
+        overflow: hidden;
+        margin: -99px;
+        min-height: 3900px;
+    }
+    .footer_logo{
+        width: 67%;
+    }
+    
+    .footer_paragraph{
+        font-size: 14px;
+        
+    }
+
+    .author{
+        margin-top: 9%;
+    }
+    
+    .location {
+        margin-top: 36%;
+        margin-left: 8%;
+        font-size: 15px;
+    }
+
+    .mail{
+        margin-left: 8%;
+        font-size: 15px;
+    }
+
+    .social-links {
+        margin-left: 55%;
+        
+    }
+}
+@media only screen and (max-width: 1240px){
+    
+    /* SECTION 1 */
+    section.page1 {
+        min-height: 599px;
+    }
+
+    .img1 {
+        left:280px;
+        max-height: 596px;
+        max-width: 100%;
+    }
+
+    div#navbarNavDropdown{
+        margin-left: 22%;
+    }
+
+    #drejtkendeshi{
+        height: 66px;
+    }
+
+    .main{
+        font-size: 43px;
+    }
+
+     /*SECTION 2 */
+     .image-box {
+        width: 90%;
+    }
+
+    .paragraph1, .paragraph2, .paragraph3{
+        font-size: 17px;
+    }
+
+    /* SECTION 4 */
+    section.container.page4 {
+        margin-left: 4px;
+    }
+
+    /* SECTION 5 */
+    .slide h5{
+        font-size: 25px;
+    }
+    .img_slide{
+        width: 100%;
+        height: 100%;
+    }
+
+    /* SECTION 6 */
+    .col-md-5.offset-md-2 {
+        margin-top: -26%;
+    }
+
+    .img_form3, .bottle{
+        display: none;
+    }
+   
+}
+
+@media only screen and (max-width: 992px){
+    /* SECTION 1 */
+    .img1 {
+        left: 280px;
+        max-height: 596px;
+        max-width: 99%;
+    }
+    #drejtkendeshi {
+        margin-top: 28%;
+        height: 23%;
+        margin-left: 10%;
+    }
+
+    .main{
+        margin-left: 10%;
+        font-size: 45px;
+    }
+
+    .main2{
+        margin-left: 10%;
+        font-size: 37px;
+    }
+
+    .ic-container {
+        margin-left: 82%;
+        margin-top: -43rem;
+    }
+
+    div#navbarNavDropdown{
+        margin-left: 20%;      
+    }
+   
+    /* SECTION 2 */   
+    .image-box {
+        width: 100%;
+    }
+
+     /* SECTION 2 */
+     .try{
+        font-size: 11px;
+    }
+    .paragraph1, .paragraph2, .paragraph3{
+        font-size: 10px;
+    }
+
+    /* SECTION 4 */
+    section.container.page4 {
+        text-align: center;
+    }
+    
+    .burger-trio img{
+        margin: 13px;
+    }
+
+    .burger-trio button{
+        margin-left: 10%;
+    }
+
+    /* SECTION 5*/
+    section.page5{
+        margin-left: 13%;
+    }
+
+    .slide{
+        display: flex;
+    }
+
+    /* SECTION 6 */
+    .bottle{
+        display: none;
+    }
+    .img_form3{
+        display: none;
+    }
+
+    button.btn.btn-danger.w-100 {
+        font-weight: 700;
+        font-size: 14px;
+        height: 45px;
+        margin-left: 3%;
+    }
+
+    input.form-control {
+       
+        margin: 6px;
+        height: 45px;
+    }
+    
+
+    /* SECTION 7 */
+    .footer{
+        margin: 40px;
+    }
+    .footer_logo{
+       
+        margin-top: 13%;
+        width: 37%;
+    }
+    
+    .footer_paragraph{
+        font-size: 14px;
+        
+    }
+    
+    .author {
+        font-size: 13px;
+    }
+    
+    
+    .location, .mail {
+        margin-left: auto;
+    }
+
+    .social-links {
+        margin-left: auto;
+        margin-top: 69px;
+    }
+}
+
+
+@media only screen and (max-width: 912px){
+    /* SECTION 1 */
+    .img1{
+        left: 168px;
+    }
+    /* SECTION 2 */
+    .try{
+        font-size: 16px;
+    }
+
+    .paragraph1, .paragraph2, .paragraph3{
+        font-size: 14px;
+    }
+
+    /* SECTION 4 */
+    img.burger-trio {
+        margin-left: 13%;
+    }
+
+    .burger-trio p {
+        padding: 12px;
+        margin: -57px;
+        margin-left: 49px;
+    }
+
+    /* SECTION 5 */
+    .slick-track{
+        height: 4px;
+    }
+
+    .slide h6{
+        margin-top: -18%;
+    }
+
+    /* SECTION 6 */
+    .col-md-5.offset-md-2{
+        margin-top: -156px;
+    }
+    /* SECTION 7 */
+    .container.footer{
+        margin-top: -71%;
+    }
+    .page7{
+        min-height: 1900px;
+    }
+    .footer_logo{
+        margin-top: 99%;
+    }
+    
+    .footer_paragraph{
+        margin-top: 5%;
+        
+    }
+    
+    .author {
+        margin-top: 5%;
+        font-size: 14px;
+    }
+
+    .location{
+        margin-top: 0;
+        margin-left: 19px;
+    }
+
+    .mail{
+        margin-left: 19px;
+    }
+
+    .social-links{
+        margin-left: 23px;
+        margin-top: 25px;
+    }
+}
+
+
+@media only screen and (max-width: 898px){
+    /* SECTION 1 */
+    .img1{
+        left: 162px;
+        max-height: 596px;
+        max-width: 99%;
+    }
+    
+    /* SECTION 5 */
+    .img_slide{
+        width: 100%;
+    }
+
+    
+    /* SECTION 7 */
+    .page7{
+        min-height: 1700px;
+    }
+    .footer_logo{
+        margin-top: 90%;
+    }
+    
+    .footer_paragraph{
+        margin-top: 5%;
+        
+    }
+    
+    .author {
+        margin-top: 5%;
+        font-size: 14px;
+    }
+
+    .location{
+        margin-top: 0;
+        margin-left: 19px;
+    }
+
+    .mail{
+        margin-left: 19px;
+    }
+
+    .social-links{
+        margin-left: 23px;
+        margin-top: 25px;
+    }
+   
+    
+  
+}
+
+@media only screen and (max-width: 540px){
+    /* SECTION 1 */
+    section.page1{
+        min-height: 406px;
+    }
+    
+    .logo {
+        width: 85%;
+        margin-top: 81%;
+        margin-left: 18%;
+    }
+
+    div#navbarNavDropdown{
+        margin-left: 50%;
+    }
+
+    #drejtkendeshi{
+        margin-top: 50px;
+    }
+    .img1{
+        display: none;
+    }
+
+    /*SECTION 2 */
+    .image-box {
+        width: 100%;
+    }
+
+    .try {
+        font-size: 20px;
+    }
+
+    .paragraph1, .paragraph2, .paragraph3{
+        font-size: 20px;
+    }
+
+    /* SECTION 4 */
+    .burger-trio img {
+        max-width: 189px;
+        margin-left: -11px;
+    }
+
+    .burger-trio h5{
+        padding: 5%;
+        font-size: 17px;
+        margin-left: 4px;
+    }
+    
+    .burger-trio p {
+        font-size: 15px;
+        margin: -35px 151px;
+    }
+
+    .burger-trio button{
+        margin-left: 1%;
+    }
+
+
+    /* SECTION 6 */
+    .container-fluid {
+        margin-top: -37%;
+    }
+
+    section.contact{
+        background-image:none;
+    }
+    .col-md-5.offset-md-2 {
+        margin-top: -4px;
+        margin-left: 17%;
+        width: 72%;
+    }
+
+    .col-md-5.offset-md-3 {
+        width: 72%;
+        margin-top: 7%;
+        margin-left: 17%;
+    }
+
+    button.btn.btn-danger.w-100 {
+        margin-left: 2%;
+    }
+    .contact h6{  
+        margin-top: 29%;  
+        font-size: 17px;
+    }
+
+    .contact h1{
+        font-size: 25px;
+    }
+
+    /* SECTION 7 */
+    .container.footer{
+        margin-top: 19px;
+    }
+    .page7 {
+        min-height: 1162px;
+        margin-top: -60%;
+    }
+    .footer_logo{
+        width: 52%;
+        margin-top: 65%;
+    }
+    
+    .footer_paragraph{
+        font-size: 12px;
+    }
+    
+    .author {
+        font-size: 12px;
+        margin-top: 64% ;
+    }
+
+    .location {
+        margin-top: -50%;
+        font-size: 12px;
+    }
+
+    .mail{
+        font-size: 12px;
+    }
+
+    .author{
+        margin-top: 47%;
+    }
+
+    .social-links {   
+      margin-left: 5%; 
+      margin-top: 3%; 
+    }
+}
+
+@media only screen and (max-width: 414px){
+    /* SECTION 1 */
+    section.page1 {
+        min-height: 388px;
+    }
+    .logo{
+        width: 215px;
+        margin-left: 35px;
+        margin-top: 149px;
+    }
+
+    #drejtkendeshi{
+        font-size: 14px;
+        margin-top: -3px;
+    }
+    .img1 {
+        display: none;
+    }
+
+    /*SECTION 2 */
+    .image-box {
+        max-height: 250px;
+        width: 100%;
+    }
+
+    .try, .paragraph1, .paragraph2, .paragraph3{
+        font-size: 16px;
+    }
+
+    /* SECTION 3 */
+    .paragraph {
+        margin: 0 69px;
+    }
+
+    /* SECTION 4 */
+    
+    .burger-trio img {
+        max-width: 189px;
+        margin-left: 21px;
+        margin-top: 14px;
+    }
+
+    .burger-trio p{
+        font-size: 15px;
+        margin: -21px 60px;
+    }
+
+    /* SECTION 5 */
+    .slick-track{
+        height: 100%;
+    }
+
+    .slide h5{
+        font-size: 19px;
+    }
+    /* SECTION 6 */
+    .container-fluid {
+        margin-top: -165px;
+        padding: 42px;
+    }
+
+    section.contact{
+        background-image:none;
+    }
+    .col-md-5.offset-md-2 {
+        margin-top: -1%;
+        margin-left: 12%;
+        width: 72%;
+    }
+
+    .col-md-5.offset-md-3 {
+        width: 72%;
+        margin-top: 4%;
+        margin-left: 12%;
+    }
+
+    button.btn.btn-danger.w-100 {
+        margin-left: 2%;
+    }
+    .contact h6{  
+        font-size: 17px;
+    }
+
+    .contact h1{
+        font-size: 25px;
+    }
+
+    /* SECTION 7 */
+    .container.footer {
+        margin-top: -56%;
+    }
+    .page7{
+        min-height: 1000px;
+    }
+    .footer_logo{
+        margin-left: 4%;
+        margin-top: 74%;
+    }
+    
+    .footer_paragraph{
+        font-size: 12px;
+    }
+    
+    .author {
+        font-size: 12px;
+        margin-top: 49% ;
+    }
+
+    .location {
+        margin-top: -50%;
+        font-size: 12px;
+    }
+
+    .mail{
+        font-size: 12px;
+    }
+
+    .social-links { 
+      font-size: 140%; 
+      margin-left: 5%; 
+      margin-top: 30%; 
+    }
+
+}
+
+
+@media only screen and (max-width: 280px){
+    /* SECTION 1 */
+    section.page1 {
+        min-height: 289px;
+    }
+    .logo {
+        width: 148px;
+        margin-left:13%;
+    }
+
+    #drejtkendeshi {
+        font-size: 12px;
+    
+        height: 31%;
+        margin-left: 10%;
+    }
+
+    .main{
+        font-size: 26px;
+    }
+
+    .main2{
+        font-size: 22px;
+    }
+
+    /* SECTION 2 */
+    .try{
+        font-size: 11px;
+    }
+    .paragraph1, .paragraph2, .paragraph3{
+        font-size: 10px;
+    }
+
+    /* SECTION 3 */
+    .btn1{
+        width: 50%;
+        font-size: 11px;
+    }
+
+    h1 {
+        font-size: 12px;
+    }
+
+    p.paragraph {
+        font-size: 14px;
+        margin: 9px;
+    }
+
+    /* SECTION 4 */
+
+    img.burger-trio {
+        margin-left: 16px;
+    }
+
+    .burger-trio p{
+        font-size: 15px;
+        margin: -21px 60px;
+    }
+    
+    .burger-trio button {
+        width: 137px;
+    }
+    /* SECTION 5 */
+    .slide h6{
+        font-size: 17px;
+    }
+
+    .slide h5{
+        font-size: 19px;
+    }
+
+    .slide p{
+        font-size: 15px;
+    }
+
+
+    /* SECTION 7 */
+    .container.footer {
+        margin-top: -60%;
+    }
+    .page7{
+        min-height: 800px;
+    }
+    .footer_logo{
+        width: 180px;
+    }
+    .social-links{
+        margin-top: 29%;
+    }
+
+    .location, .mail, .author{
+        font-size: 11px;
+    }
+}
