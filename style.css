@@ -257,7 +257,7 @@ ul.slick-dots {
 
 
 section.contact{
-    background-image: url('burger_form.png');
+    background-image: url('assets/burger_form.png');
     background-repeat: no-repeat;
 }
 
@@ -302,7 +302,7 @@ button.btn.btn-danger.w-100 {
  /* SECTION 7 */
 
 .page7{
-    background-image: url(img_footer.png);
+    background-image: url(assets/img_footer.png);
     background-repeat: no-repeat;
     background-position: center center;
     min-height: 500px;
